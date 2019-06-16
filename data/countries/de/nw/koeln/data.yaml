@@ -103,3 +103,19 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: https://www.gruenekoeln.de/bezirke/bezirk8/willkommen.html
+---
+type: YOUTH_ORGANIZATION
+country: DE
+district: Köln
+level: DE:KREISVERBAND
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-jugend-koeln.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gjkoeln
+  - type: TWITTER
+    url: https://twitter.com/gjkoeln
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gjkoeln/
+emails:
+  - address: kontakt@gruene-jugend-koeln.de
