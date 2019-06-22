@@ -10,7 +10,7 @@ urls:
   - type: FACEBOOK
     url: https://www.facebook.com/gruenewesterwald/
 emails:
-- address: kv-westerwald@gruene-rlp.de
+  - address: kv-westerwald@gruene-rlp.de
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -24,4 +24,4 @@ urls:
   - type: FACEBOOK
     url: https://www.facebook.com/B90DieGruenenHG/
 emails:
-- address: info@gruene-hg.de
+  - address: info@gruene-hg.de
